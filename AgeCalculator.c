@@ -1,3 +1,9 @@
+/*
+ * Age Calculator - A C program to calculate age in days...
+ * Author: [Zakaria Omoro]
+ * Copyright [2023]
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
